@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<!--
-**AnjaliAM/AnjaliAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+👋 Anjali
 
 - 🔭 I've completed M.sc Masters in Mathematics and Computer Science (2018-2020) from Maharshi Dayanand University, Rohtak with CGPA 8.8
 - 🌱 I've completed B.sc Bachelor's with Mathematics and Science Components (2015- 2018) from Maharshi Dayanand University
